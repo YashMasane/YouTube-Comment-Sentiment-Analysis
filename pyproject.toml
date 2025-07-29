@@ -7,8 +7,10 @@ requires-python = ">=3.11"
 dependencies = [
     "ipykernel>=6.30.0",
     "matplotlib>=3.10.3",
+    "nltk>=3.9.1",
     "numpy>=2.3.2",
     "pandas>=2.3.1",
     "scikit-learn>=1.7.1",
     "seaborn>=0.13.2",
+    "wordcloud>=1.9.4",
 ]
